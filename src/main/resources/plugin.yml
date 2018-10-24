@@ -1,0 +1,3 @@
+name: Survivalcore
+version: ${project.version}
+main: me.nosharp.survivalcore.Survivalcore
